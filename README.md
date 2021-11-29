@@ -1,4 +1,9 @@
-Questions
+#Created by Jarod, Carlos & Jacob
+#Hashing and Passwords
+#CPE-321
+#Professor Fang
+
+Questions:
 
 1. What do you observed based on Task 1b? How many bytes are different
 between the two digests?
